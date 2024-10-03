@@ -1,0 +1,19 @@
+body{
+    width: auto;
+    text-align: center;
+    background: url(pozadie.gif);
+}
+
+img{
+    width: fit-content;
+    text-align: center;
+    z-index: 2;
+}
+
+h1{
+    font-size: 50px;
+    font-weight: 900;
+    font-family: fantasy;
+    margin-top: -350px;
+    letter-spacing: 3px;
+}
